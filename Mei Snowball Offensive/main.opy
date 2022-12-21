@@ -154,7 +154,11 @@ rule "mei: apply damage":
     else:
         playEffect(getAllPlayers(), DynamicEffect.RING_EXPLOSION, Color.RED, eventPlayer.getPosition(), 7)
         playEffect(getAllPlayers(), DynamicEffect.RING_EXPLOSION_SOUND, Color.RED, eventPlayer, 35)
-        # Prevent stacking same frozen effect that make enemy too vulnerable.
+        # Prevent stacking same frozen effect that make enemy frozen forever.
+        # NOTE: This already happened often testing with bots! So its better stack a small value instead
+        #
+        # old: baseEffect = 0.5 per each bot firing workshop will stack 0.5 + 0.5 + ... till player get out of ammo
+        # new: baseEffect = 0.5 once + 0.033 + 0.033 ... till status frozen is gone.
         victim.setStatusEffect(attacker, Status.FROZEN, attacker.baseEffectCalc if not victim.hasStatusEffect(Status.FROZEN) else 0.033)
 
 rule "mei: melee attack":
