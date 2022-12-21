@@ -23,13 +23,18 @@ You must install <b>[VSCode](https://code.visualstudio.com/)</b> with <b>[OverPy
 
 - Angry Escort (❌): Basically enemies get stronger each time you kill them like enemy waves.
 
+
 - Hero Tycoon (❌): To be decided, basically an hero tycoon with dummy bots.
+
 
 - Escape From Roadhog (⚠): Basically an chaser roadhog will attempt to chase everyone in his LOS.
 
-- Rio Invasion (💤): Same as angry escort, but dedicated to Paraíso map. There some lore i've created in my mind in this mode. Basically enemy null sector units invaded Lucio's house, and your team must defeat enemy units till you reach Lucio's house. (Its incomplete lore, because i've used wrong gamemode: Escort, i will change soon to Skirmish and add some secondary objectives and some hero conversation, etc to make gamemode more interesting)
 
-- Mei Snowball Offensive (✅): Basically an prototype based on mei's snowball offensive from arcade but with some additions (tested today at 9:30AM BRT-3).
+- Rio Invasion (💤): Same as angry escort, but dedicated to Paraíso map. There some lore i've created in my mind in this mode. Basically enemy null sector units invaded Lucio's house, and your team must defeat enemy units till you reach Lucio's house. (Its incomplete lore, because i've used wrong gamemode: Escort, i will change soon to Skirmish and add some secondary objectives and some hero conversation, etc to make gamemode more interesting). 
+    - Curiosity: _Also i decided call its 'Rio Invasion' because my dear Lúcio is from Rio de Janeiro my wonderful state from brazil ❤, also __paraíso__ in portuguese from brazil means __paradise__ in english_
+
+
+- Mei Snowball Offensive (✅): Basically an prototype based on mei's snowball offensive from arcade but with some additions (tested today at 9:30AM GMT-3 having some fun with Mei bots 😂😂).
 
 - DBD-REMAKE (⚠/❌): Basically an rework to existing (and gone) DBD mode. My objective is recreate this mode to give chance to both sides win. TL;DR make balanced for both team sides (lets try AI based killer?).
 
