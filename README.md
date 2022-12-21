@@ -27,7 +27,7 @@ You must install <b>[VSCode](https://code.visualstudio.com/)</b> with <b>[OverPy
 
 - Escape From Roadhog (⚠): Basically an chaser roadhog will attempt to chase everyone in his LOS.
 
-- Rio Invasion (💤): Same as angry escort, but dedicated to Paráiso map. There some lore i've created in my mind in this mode. Basically enemy null sector units invaded Lucio's house, and your team must defeat enemy units till you reach Lucio's house. (Its incomplete lore, because i've used wrong gamemode: Escort, i will change soon to Skirmish and add some secondary objectives and some hero conversation, etc to make gamemode more interesting)
+- Rio Invasion (💤): Same as angry escort, but dedicated to Paraíso map. There some lore i've created in my mind in this mode. Basically enemy null sector units invaded Lucio's house, and your team must defeat enemy units till you reach Lucio's house. (Its incomplete lore, because i've used wrong gamemode: Escort, i will change soon to Skirmish and add some secondary objectives and some hero conversation, etc to make gamemode more interesting)
 
 - Mei Snowball Offensive (✅): Basically an prototype based on mei's snowball offensive from arcade but with some additions (tested today at 9:30AM BRT-3).
 
