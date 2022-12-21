@@ -1,0 +1,2 @@
+globalvar sourceBot
+globalvar isReady
