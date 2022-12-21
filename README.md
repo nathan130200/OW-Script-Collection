@@ -10,6 +10,9 @@ If you wanna modify any code in workshop from any creator least give credits. Fo
 
 If you wanna edit code and is too big to workshop mode description, add an link to an [`Gist`](https://gist.github.com/) with an `README.md` on gist to display full description of mode and original creator plus people that have modified.
 
+# Compilation
+You must install <b>[VSCode](https://code.visualstudio.com/)</b> with <b>[OverPy](https://marketplace.visualstudio.com/items?itemName=Zezombye.overpy)</b> extension installed also. Then clone repository and usually find and `main.opy` in each folder. It's main script for all scripts i create, this will group all imports, variables and macros into a single file to fast and simple compilation. 
+
 # My Own Codes
 ❌ = Discontinuated <br>
 ⚠ = I Don't Remember If Still Working<br>
