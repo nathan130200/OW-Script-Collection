@@ -2,7 +2,7 @@
 A collection of overwatch workshop scripts wrote by me and rework from popular game codes focusing peformance and bug fixes.
 
 # Usage
-You can play all modes that i've created, i just request one thing. Don't edit and publish as owner of code, this make all workshop creators sad and unmotivated to create gamemodes. When i publish some code that isn't mine (reworked or created from stratch) i will create an dedicated `README.md` inside that folder.
+You can play all modes that i've created, i just request one thing. Don't edit and publish as owner of code, this make all workshop creators sad and unmotivated to create gamemodes. When i publish some code that isn't mine (reworked or created from stratch) i will create an dedicated `README.md` inside that folder to tell where i found and which is possible original author plus extra info.
 
 I usually prefer save cool modes in github to preserve the gamemode. I still have many gamemodes presets saved from OW1, will try publish later.
 
