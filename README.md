@@ -39,3 +39,5 @@ You must install <b>[VSCode](https://code.visualstudio.com/)</b> with <b>[OverPy
 - DBD-REMAKE (⚠/❌): Basically an rework to existing (and gone) DBD mode. My objective is recreate this mode to give chance to both sides win. TL;DR make balanced for both team sides (lets try AI based killer?).
 
 - NoClip (✅): Basically an noclip. You can fly in map without collision and gravity to explore some map areas (like i've discovered secret door in King's Row for alternative payload path like they promised in OW2 annoucement videos).
+
+- Hide and Seek Tiny: An reworked version of an hide and seek tiny but balanced to deathmatch. Instead only one seeker, once someone got killed will become a seeker also. With some additions and some tweaks to help seekers find hiders.
